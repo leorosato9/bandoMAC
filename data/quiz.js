@@ -71,7 +71,7 @@ export const domandeDelQuiz = [
       'Altro'
     ],
     mostraSe: { id: 'idea_investimento', valore: 'Sì, ho definito con precisione cosa finanziare' },
-    multipla: true
+    multipla: true,
   },
   {
     id: 'business_plan',
