@@ -234,7 +234,7 @@ const getProgressPercentage = () => {
           </div>
         </form>
 
-        {status === 'error' && <p>Errore nell'invio. Riprova più tardi.</p>}
+        {status === 'error' && <p>Errore nell&lsquo;invio. Riprova più tardi.</p>}
       </main>
 
       <Footer />
